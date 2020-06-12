@@ -63,3 +63,28 @@ body {
   border: 2px solid #00ABA9;
   color: #fff;
 }
+
+
+.stopwatch .stopwatch-btn-red{
+  border: 2px solid #C85454;
+  color: #C85454;
+}
+
+.stopwatch .stopwatch-btn-red:hover {
+  background: #C85454;
+  border: 2px solid #C85454;
+  color: #fff;
+}
+
+
+
+.stopwatch .stopwatch-btn-yel{
+  border: 2px solid #FFC900;
+  color: #FFC900;
+}
+
+.stopwatch .stopwatch-btn-yel:hover {
+  background: #FFC900;
+  border: 2px solid #FFC900;
+  color: #fff;
+}
